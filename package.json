@@ -29,19 +29,19 @@
     "url": "https://github.com/mpalourdio/ng-http-loader/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^5.2.0",
-    "@angular/core": "^5.2.0",
-    "rxjs": "^5.5.6"
+    "@angular/common": "5.2.10",
+    "@angular/core": "5.2.10",
+    "rxjs": "^5.5.10"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.0",
-    "@angular/common": "^5.2.0",
-    "@angular/compiler": "^5.2.0",
-    "@angular/compiler-cli": "^5.2.0",
-    "@angular/core": "^5.2.0",
-    "@angular/language-service": "^5.2.0",
-    "@angular/platform-browser": "^5.2.0",
-    "@angular/platform-browser-dynamic": "^5.2.0",
+    "@angular/cli": "1.7.4",
+    "@angular/common": "5.2.10",
+    "@angular/compiler": "5.2.10",
+    "@angular/compiler-cli": "5.2.10",
+    "@angular/core": "5.2.10",
+    "@angular/language-service": "5.2.10",
+    "@angular/platform-browser": "5.2.10",
+    "@angular/platform-browser-dynamic": "5.2.10",
     "@types/jasmine": "~2.8.3",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
@@ -60,10 +60,10 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "phantomjs-prebuilt": "^2.1.14",
     "protractor": "~5.1.2",
-    "rxjs": "^5.5.6",
+    "rxjs": "^5.5.10",
     "ts-node": "~4.1.0",
     "tslint": "~5.9.1",
-    "typescript": "~2.5.3",
-    "zone.js": "^0.8.19"
+    "typescript": "2.6.2",
+    "zone.js": "^0.8.26"
   }
 }
